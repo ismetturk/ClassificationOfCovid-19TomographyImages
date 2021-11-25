@@ -1,6 +1,8 @@
 # Classification Of Covid-19 Tomography Images
 Classification Of Covid-19 Tomography Images With Vgg-16
 
+Dataset Link: https://www.kaggle.com/prashant268/chest-xray-covid19-pneumonia
+
 CLASSIFICATION IMAGE
 
 
